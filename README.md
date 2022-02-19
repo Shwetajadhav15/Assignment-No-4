@@ -1,5 +1,4 @@
 # Assignment-No-4
-
 Simple_Linear_Regression-Assignments
 
 1.Delivery_time -> Predict delivery time using sorting time
